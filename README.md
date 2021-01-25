@@ -39,8 +39,13 @@ de chaque composante de chaque pixel de Im12.
 
 • Écrivez les fonctions de manipulation de base permettant de récupérer la valeur entière
 correspondant aux 4 bits de poids faible aux 4 bits de poids fort d'un entier compris entre 0 et
-255. NOTE : une simple opération arithmétique en base 10 suffit.
+255.
 • Écrivez à présent la fonction permettant de mixer 2 images en une seule, selon la méthode
 présentée
 • Écrivez la fonction permettant de révéler l'image cachée en inversant ses bits de poids faible et
 ses bits de poids fort.
+
+
+
+Résultat de mon programme :
+![alt tag](https://user-images.githubusercontent.com/77985989/105749600-ed15ab80-5f43-11eb-885c-03b8adc1c8a8.PNG)
