@@ -45,7 +45,8 @@ présentée
 • Écrivez la fonction permettant de révéler l'image cachée en inversant ses bits de poids faible et
 ses bits de poids fort.
 
-
-
+Je dissimule Le Portrait (Lucas Pacioli) dans Le Champs de tulipes en Hollande (Claude Monnet)
 Résultat de mon programme :
+
+
 ![alt tag](https://user-images.githubusercontent.com/77985989/105749600-ed15ab80-5f43-11eb-885c-03b8adc1c8a8.PNG)
