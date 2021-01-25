@@ -1,5 +1,4 @@
-# Steganography
-Caché une image dans une autre
+# Steganography : Cacher une image dans une autre
 Résultat de mon programme : 
 Je dissimule Le Portrait (Lucas Pacioli) dans Le Champs de tulipes en Hollande (Claude Monnet), On voit au-dessus du Moulin, le visage de l'homme à la capuche du tableau de Pacioli
 
