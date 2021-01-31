@@ -17,6 +17,9 @@ Created on Sat Oct 31 15:43:02 2020
 
 @author: Merilia
 """
+
+##DRAFT OF MY STEGANOGRAPHY. The new version is in the file SteganographiePatricePenthièvrePOO.py, POO stands for OOP 
+##Brouillion de ma stéganographie, une nouvelle version est disponible dans le fichier SteganographiePatricePenthièvrePOO.py
 from PIL import Image
 Image.MAX_IMAGE_PIXELS = None
 
