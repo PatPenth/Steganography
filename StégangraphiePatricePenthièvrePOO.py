@@ -151,7 +151,7 @@ class steganographie:
     
 
 a = steganographie(r'C:/Users/Merilia/Desktop/PythonMonet/Claude_Monet512px.jpg',r'C:/Users/Merilia/Desktop/PythonMonet/512px-Pacioli.jpg')
-im1 = imagestg(r'C:/Users/Merilia/Desktop/PythonMonet/Claude_Monet512px.jpg')
+#im1 = imagestg(r'C:/Users/Merilia/Desktop/PythonMonet/Claude_Monet512px.jpg')
 #im2 = imagestg(r'C:/Users/Merilia/Desktop/PythonMonet/512px-Pacioli.jpg')
 #im1.resizes(100,100)
 #im1.showp()
