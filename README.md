@@ -60,6 +60,5 @@ correspondant aux 4 bits de poids faible aux 4 bits de poids fort d'un entier co
 255.
 • Écrivez à présent la fonction permettant de mixer 2 images en une seule, selon la méthode
 présentée
-• Écrivez la fonction permettant de révéler l'image cachée en inversant ses bits de poids faible et
-ses bits de poids fort.
+
 
